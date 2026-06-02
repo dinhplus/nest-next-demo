@@ -4967,10 +4967,10 @@ form-data@^3.0.0:
     combined-stream "^1.0.8"
     mime-types "^2.1.12"
 
-form-data@^4.0.4, form-data@~4.0.4:
-  version "4.0.4"
-  resolved "https://registry.yarnpkg.com/form-data/-/form-data-4.0.4.tgz#784cdcce0669a9d68e94d11ac4eea98088edd2c4"
-  integrity sha512-KrGhL9Q4zjj0kiUt5OO4Mr/A/jlI2jDYs5eHBpYHPcBEVSiipAvn2Ko2HnPe20rmcuuvMHNdZFp+4IlGTMF0Ow==
+form-data@^4.0.5:
+  version "4.0.5"
+  resolved "https://registry.yarnpkg.com/form-data/-/form-data-4.0.5.tgz#b49e48858045ff4cbf6b03e1805cebcad3679053"
+  integrity sha512-8RipRLol37bNs2bhoV67fiTEvdTrbMUYcFTiy3+wuuOnUog2QBHCZWXDRijWQfAkhBj2Uf5UnVaiWwA5vdd82w==
   dependencies:
     asynckit "^0.4.0"
     combined-stream "^1.0.8"
@@ -4978,10 +4978,10 @@ form-data@^4.0.4, form-data@~4.0.4:
     hasown "^2.0.2"
     mime-types "^2.1.12"
 
-form-data@^4.0.5:
-  version "4.0.5"
-  resolved "https://registry.yarnpkg.com/form-data/-/form-data-4.0.5.tgz#b49e48858045ff4cbf6b03e1805cebcad3679053"
-  integrity sha512-8RipRLol37bNs2bhoV67fiTEvdTrbMUYcFTiy3+wuuOnUog2QBHCZWXDRijWQfAkhBj2Uf5UnVaiWwA5vdd82w==
+form-data@~4.0.4:
+  version "4.0.4"
+  resolved "https://registry.yarnpkg.com/form-data/-/form-data-4.0.4.tgz#784cdcce0669a9d68e94d11ac4eea98088edd2c4"
+  integrity sha512-KrGhL9Q4zjj0kiUt5OO4Mr/A/jlI2jDYs5eHBpYHPcBEVSiipAvn2Ko2HnPe20rmcuuvMHNdZFp+4IlGTMF0Ow==
   dependencies:
     asynckit "^0.4.0"
     combined-stream "^1.0.8"
@@ -5375,33 +5375,33 @@ graphql-ws@5.5.5:
   resolved "https://registry.yarnpkg.com/graphql-ws/-/graphql-ws-5.5.5.tgz#f375486d3f196e2a2527b503644693ae3a8670a9"
   integrity sha512-hvyIS71vs4Tu/yUYHPvGXsTgo0t3arU820+lT5VjZS2go0ewp2LqyCgxEN56CzOG7Iys52eRhHBiD1gGRdiQtw==
 
-graphql-zeus-core@^7.1.8:
-  version "7.1.8"
-  resolved "https://registry.yarnpkg.com/graphql-zeus-core/-/graphql-zeus-core-7.1.8.tgz#e3736abb062be7badd9b08a43975dcf96c0b66ea"
-  integrity sha512-b9hqFH6sBv+1z+S28J6XIDSrs9xq9M+YObK0RjawGiRFEZaFzfhm4p82oJ9pgLTXUktoIzkVPa0gYRA2a4HRIw==
+graphql-zeus-core@^7.2.1:
+  version "7.2.1"
+  resolved "https://registry.yarnpkg.com/graphql-zeus-core/-/graphql-zeus-core-7.2.1.tgz#ffe41393001e4c382f967ac14fa099b22790aa0c"
+  integrity sha512-iy3mriUguSza1JQxzbioZbmzJBgX/b2ytPed5bCKwe+WH5/rR4QLaq8IS8J5pkzKnOQzGTZRvhjOiFVVUHUD9w==
   dependencies:
     graphql "^16.5.0"
     graphql-js-tree "^3.0.4"
 
-graphql-zeus-jsonschema@^7.1.8:
-  version "7.1.8"
-  resolved "https://registry.yarnpkg.com/graphql-zeus-jsonschema/-/graphql-zeus-jsonschema-7.1.8.tgz#3e3eb7c2e8363f32461adcad09d37b7fa81b7f05"
-  integrity sha512-NpuqHY5nLaMuawaJJ7UngPXgZvg3yeOtX0AJYuujZEDiisi8VZDSwNjKnduJnMYlJH3Oj91lYIaDmHw+w+NUqg==
+graphql-zeus-jsonschema@^7.2.1:
+  version "7.2.1"
+  resolved "https://registry.yarnpkg.com/graphql-zeus-jsonschema/-/graphql-zeus-jsonschema-7.2.1.tgz#b6f8f27b35283084ba7812b53e23d6a5ba661cea"
+  integrity sha512-S00ouvbHaCKNBe45kibdLSc+H7HvV7XIbfjTiEue3IkVTjf2WFAq/aLG9xPBM2GO6aVx8QXKp/HBWRNKk2E0TQ==
   dependencies:
     graphql "^16.5.0"
     graphql-js-tree "^1.0.5"
     json-schema "^0.4.0"
 
-graphql-zeus@^7.1.8:
-  version "7.1.8"
-  resolved "https://registry.yarnpkg.com/graphql-zeus/-/graphql-zeus-7.1.8.tgz#6c9dba414bfb46761dfab0b1f3162eb9a6939971"
-  integrity sha512-YlHbB4QVjeN1C9Ac6u0gfQspEmljB6yGWQz83VrAv4eELqSrnigKun2FYXx6GoQoDPIUA6YqcKL3gKrof/JD/A==
+graphql-zeus@^7.2.1:
+  version "7.2.1"
+  resolved "https://registry.yarnpkg.com/graphql-zeus/-/graphql-zeus-7.2.1.tgz#94f29b650ce266b9579c5d4d7abce8619ec3b7ec"
+  integrity sha512-ZgW5PPIE3z2OMFmtDqBCjI2gONi51XRqCICT3KuNRTI3AvBuiF21PIfa5m4TDK5Rxs6FqFlvxCoblTRulnBQdw==
   dependencies:
     config-maker "^0.0.6"
     cross-fetch "^3.0.4"
     graphql-js-tree "^3.0.4"
-    graphql-zeus-core "^7.1.8"
-    graphql-zeus-jsonschema "^7.1.8"
+    graphql-zeus-core "^7.2.1"
+    graphql-zeus-jsonschema "^7.2.1"
     prompts "^2.4.2"
     yargs "^16.1.1"
 
